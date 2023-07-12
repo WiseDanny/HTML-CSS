@@ -2,11 +2,41 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Image Gallery
     </title> 
     <link rel="stylesheet" href="style.css">
   </head>
 <body>
   <div class="gallery">
-    
+    <a target="_blank" href="https://www.africanbites.com/wp-content/uploads/2022/04/Fufu-1.bmp">
+<img src="https://www.africanbites.com/wp-content/uploads/2022/04/Fufu-1.bmp" alt="FUFU" width="200">
+</a>
+<div class="description">Fufu west african cuisine</div>
+</div>
+
+<div class="gallery">
+    <a target="_blank" href="https://cdn.tasteatlas.com/images/dishes/f189408c715349a891af42809e22b4a9.jpg">
+<img src=https://cdn.tasteatlas.com/images/dishes/f189408c715349a891af42809e22b4a9.jpg"" alt="FUFU" width="200">
+</a>
+<div class="description">Fufu west african cuisine</div>
+</div>  
+
+<div class="gallery">
+    <a target="_blank" href="https://eatwellabi.com/wp-content/uploads/2022/11/Jollof-rice-16.jpg">
+<img src="https://eatwellabi.com/wp-content/uploads/2022/11/Jollof-rice-16.jpg" alt="Jollof rice" width="200">
+</a>
+<div class="description">Jollof rice  west african cuisine</div>
+</div> 
+
+<div class="gallery">
+    <a target="_blank" href="https://www.okrapantry.com/wp-content/uploads/2021/02/Liberian-Cassava-Leaf-Soup_7.jpg">
+<img src="https://www.okrapantry.com/wp-content/uploads/2021/02/Liberian-Cassava-Leaf-Soup_7.jpg" alt="Cassava leaf" width="200">
+</a>
+<div class="description">Cassava leaf  west african cuisine</div>
+</div> 
+
 </body>
+</html>
+
