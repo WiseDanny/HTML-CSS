@@ -2,6 +2,7 @@
     display: inline block;
     border: 1px solid hs1(0, 0%, 60%);
     margin: 5px;
+    width: 200px;
 }
 .gallery .description {
 padding: 10px;
@@ -10,3 +11,8 @@ text-align: center;
 .gallery:hover{
         border: 1px solid hs1(0, 0%, 60%);
 }
+.gallery img {
+     width: 100%
+    height: auto;
+}
+
