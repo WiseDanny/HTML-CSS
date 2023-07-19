@@ -10,8 +10,16 @@
 </head>
 <body>
 <div class="icons">
+<a href="">
 <i class="fa-solid fa-hotel fa-5x"></i>
+</a>
+<a href="https://telegram.org/">
 <i class="fa-brands fa-telegram fa-5x"></i>
+</a>
+<a href="https://www.tiktok.com/">
 <i class="fa-brands fa-tiktok fa-5x"></i>
+</a>
+<a href="https://www.tumblr.com/">
 <i class="fa-brands fa-tumblr fa-5x"></i>
+</a>
 </div>
