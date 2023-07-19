@@ -10,3 +10,6 @@ color: rgb(34, 158, 217);
 .fa-brands.fa-tiktok.fa-5x{
 color: hsl(0, 0%, 10%);
 }
+.fa-brands.fa-tumblr.fa-5x{
+color: rgb(20.39%, 32.16%,  43.53%);
+}
