@@ -7,3 +7,6 @@ color: hsl(0, 0%, 66%);
 .fa-brands.fa-telegram.fa-5x{
 color: rgb(34, 158, 217);
 }
+.fa-brands.fa-tiktok.fa-5x{
+color: hsl(0, 0%, 10%);
+}
