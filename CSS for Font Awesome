@@ -1,3 +1,6 @@
 .icons {
   text-align: center;
 }
+.fa-solid.fa-hotel.fa-5x{
+color: hsl(0, 0%, 66%);
+}
